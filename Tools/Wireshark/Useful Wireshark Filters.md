@@ -1,5 +1,7 @@
 ## Useful Filters
 
 <p align="center">
-  <img src="https://imgur.com/a/L8IZXNV" alt="Alt text" width="600">
+  <a href="https://imgur.com/a/L8IZXNV">
+    <img src="https://i.imgur.com/IMAGE_ID.jpg" alt="Alt text" width="700">
+  </a>
 </p>
