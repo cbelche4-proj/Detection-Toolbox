@@ -21,8 +21,12 @@ Wireshark is the de-facto packet analyzer for blue teams, red teams, and trouble
 - **Display filters** run **after** capture (Wireshark syntax, rich operators). Perfect for analysis.
 
 Examples:
-- Capture filter: `port 53`  
+- Capture filter: `port 53`
+<img width="1195" height="444" alt="capture filter" src="https://github.com/user-attachments/assets/df21b432-128f-4c31-b3ef-2b01f5fce6ac" />
+
+  
 - Display filter: `dns` or `dns.qry.name contains "example"`
+<img width="938" height="319" alt="display filter" src="https://github.com/user-attachments/assets/0d01f4e5-02d3-466a-becd-fae19293d9a7" />
 
 ---
 
